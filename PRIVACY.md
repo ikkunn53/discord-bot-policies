@@ -1,7 +1,7 @@
 # プライバシーポリシー
 
-対象：role-bot（Discord ロール管理 Bot）および付属の Web 管理画面  
-運営者：ikkunn53  
+対象：Discord_Bot（Discord ロール管理 Bot）および付属の Web 管理画面<br>
+運営者：ikkunn53<br>
 最終更新日：2026年11月10日
 
 ## 1. 対象と利用目的
